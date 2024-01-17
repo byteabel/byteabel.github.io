@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Learning
+permalink: /learning/
 ---
 
 I myself is a digital nomad. Living behind the monitor. Connecting through network.
