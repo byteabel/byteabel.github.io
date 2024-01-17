@@ -28,7 +28,7 @@ twitter_username: byteabel
 github_username:  byteabel
 
 # Build settings
-theme: minima
+remote_theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
